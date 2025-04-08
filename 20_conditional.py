@@ -10,3 +10,5 @@ if a > 18:
     print("Aap vote de sakte ho")
 else:
     print(f"Tum 18 ke nahi hue ho better luck again next {18 - a} years me")
+
+#👉 Matlab: Agar condition true hai to pehla print, warna doosra.
