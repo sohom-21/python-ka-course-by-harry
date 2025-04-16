@@ -59,3 +59,9 @@ print(is_present)  # Output: True
 my_tuple = (1, 2, 3)
 j, k, l = my_tuple #assigns 1 in j,2 in k,3 in l
 print(j, k, l)
+
+# reverse tuples
+print(reversed(b)) #output <reversed object at 0x000002A1771A6350>
+
+# reverse tuple list
+print()

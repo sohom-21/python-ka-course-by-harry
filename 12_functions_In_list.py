@@ -25,7 +25,7 @@ print(f'{d} is the element at index 0 that was removed and the updated list is {
 l2.remove(20) #removes a desired element from the list
 print(f'20 is the element that was removed and the updated list is {l2}')
 
-length = len(l1) #just like in strings we can also use len function to findout the length of a list
+length = len(l1) #just like in strings we can also use len function to find out the length of a list
 print(length)
 
 minimum_value = min(l2) # returns the smallest value present in a list
