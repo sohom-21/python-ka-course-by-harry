@@ -1,0 +1,16 @@
+🧾 Final Bill
+----------------------------------------------
+Item        Qty     price     final total
+apples      9       38        403.56
+mangoes     12      45        573.48
+bread       2       35        82.60
+sugar       12      40        509.76
+salt        10      27        318.60
+wheat flour 3       180       637.20
+refined oil pouch2       80        188.80
+eggs        18      10        191.16
+tomatoes    6       35        247.80
+vanilla extracts8       36        339.84
+----------------------------------------------
+✨ Total Bill: ₹3492.80
+
