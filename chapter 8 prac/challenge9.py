@@ -1,6 +1,7 @@
 # 🧾✨ Project Upgrade: Bill Slip with Item Names & Summary
 # 📦 What We’ll Add:
 # Phase 2: CSV Import Feature (Repeat Orders / Old Data)
+# to get a grasp of what's going on what a look at challenge 8
 
 # Example:
 # User gives a CSV file like this:

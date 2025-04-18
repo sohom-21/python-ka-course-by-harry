@@ -32,6 +32,7 @@
 # Bread       5     30      ₹177.0
 # ----------------------------------------
 # Total Bill: ₹813.0
+# to get a grasp of what's going on what a look at challenge 5
 
 grocery_list = dict()
 items = list()
