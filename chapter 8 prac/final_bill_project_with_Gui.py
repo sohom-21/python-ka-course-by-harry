@@ -256,9 +256,6 @@ def show_imported_bill_popup(text):
 def exit_app():
     root.destroy()
 
-
-
-
 def start_gui():
     # Step 1: Create the root window
     # Initialize main application window
@@ -294,8 +291,8 @@ def start_gui():
     # Step 5: Start the GUI loop
     # Run the mainloop to display window
     root.mainloop()  # Keeps the window running
-
-
+    
+    
 if __name__ == "__main__":
     mode = input("Choose mode (cli/gui): ").strip().lower()
     if mode == 'cli':
