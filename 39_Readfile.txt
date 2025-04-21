@@ -1,0 +1,6 @@
+This is amazing
+This a second line
+Twinkle Twinkle little star
+Weak Hero class 1
+Weak Hero class 2Hey i have learned to append in a fileNow This is my second append
+hey this me trying to append this very text in a line that i want to add to not just at the end of the same line like before
