@@ -9,6 +9,7 @@
 
 # Har item ke baad puchho: "Do you want to add another item? (yes/no): "
     # Jab user no bole, tab program total bill print kare
+# to get a grasp of what's going on what a look at challenge 4
 
 final_bill = 0
 def calculate_bill(price, quantity):

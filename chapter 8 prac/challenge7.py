@@ -33,10 +33,9 @@
 # Total Bill: ₹813.0
 
 ########## 🛠 Step 1: Add CSV Export to Your Billing App (new update to app)
-
+# to get a grasp of what's going on what a look at challenge 6
 
 import csv
-
 
 def export_to_csv(items, total):
     with open("final_bill.csv", mode='w', newline='') as file:

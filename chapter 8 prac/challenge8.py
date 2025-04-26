@@ -34,6 +34,7 @@
 
 ########## 🛠 Step 1: Add CSV Export to Your Billing App (new update to app)
 ########## 🛠 Step 2: Print to Text File (🖨️ Bill Print Feature)
+# to get a grasp of what's going on what a look at challenge 7
 
 import csv
 import datetime
