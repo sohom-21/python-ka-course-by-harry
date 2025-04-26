@@ -1,5 +1,4 @@
 # CHAPTER 10 - PRACTICE SET
-
 # 1. Create a Class "Programmer" for storing information of few programmers working at Microsoft.
 
 class Programmer:
