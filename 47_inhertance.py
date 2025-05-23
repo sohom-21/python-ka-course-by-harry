@@ -18,5 +18,4 @@ class Programmer(Employee):
 
 a = Employee()
 b = Programmer()
-
 print(a.company, b.company)
