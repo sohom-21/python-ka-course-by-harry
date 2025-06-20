@@ -11,4 +11,10 @@ class Student:
 
 class ManageStudents(Student):
          def add_students(self):
-                  
+                  pass
+         def remove_students(self):
+                  pass
+         def update_students(self):
+                  pass
+         def view_students(self):
+                  pass
